@@ -11,7 +11,7 @@ function App() {
         <tbody>
           <tr>
             <td>
-              
+              <StudentTable students={students}/>
             </td>
           </tr>
         </tbody>
