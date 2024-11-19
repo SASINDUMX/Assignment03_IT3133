@@ -44,8 +44,7 @@ export default function StudentTable(props){
                 </table>
             </div>
             <div className='rightDiv'>
-                
-                
+               <Profile stu={stu}/>
             </div>
         </div>       
     );
